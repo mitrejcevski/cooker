@@ -1,5 +1,5 @@
 [versions]
-    gradle-plugin-version = "8.1.0-beta03"
+    gradle-plugin-version = "8.1.0-beta04"
     kotlin-version = "1.8.10"
     min-sdk-version = "24"
     target-sdk-version = "33"
